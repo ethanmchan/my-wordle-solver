@@ -19,7 +19,7 @@ user guesses the mystery word in the Wordle game.
          In very, very unlikely cases, the Wordle Solver will also fail because of single-letter randomness (which is impossible to avoid)
            ex) canes --> bgggg         possible words: manes, banes, lanes, wanes, vanes, panes, janes, etc. > 6 
 
-Thank You and Have Fun!
+Thank You and Have Fun! (Tip: the optimal starting word is statiscally proven to be "salet")
 
 *****************************************************************************************************************************
 
